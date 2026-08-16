@@ -15,7 +15,7 @@
 -   **Anki:** "Laptop Hardware" deck - review all 20 cards (due: 20)
 -   **Video:** Professor Messer - "220-1101 Exam Cram - Laptop Hardware (Part 1)" (~12min)
 -   **Practice:** 1 practice question from CompTIA objectives on laptop components
--   **Log:** Cards reviewed: 51 | Video watched ✓ | Question score: Learn = 30m, Review = 20, Relearn = 1
+-   **Log:** Cards reviewed: 51 | Video watched ✓ | Question score: Learn = 30, Review = 20, Relearn = 1
 
 ### Day 2 (Mon, Aug 17)
 
@@ -329,5 +329,5 @@ If you're NOT at these checkpoints by these dates, push your exam to mid-Septemb
 -   Anki cards should be reviewed SPACED over multiple days (the app handles this automatically)
 -   Your 3-hour social media cap helps—more free brain space = better retention
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTk4ODMxNl19
+eyJoaXN0b3J5IjpbMTg0NDg3NDY4NywtNDQ5OTg4MzE2XX0=
 -->
