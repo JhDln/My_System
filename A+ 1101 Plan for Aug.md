@@ -22,7 +22,7 @@
 -   **Anki:** "Laptop Hardware" - continue review (20 cards)
 -   **Video:** Professor Messer - "220-1101 Exam Cram - Laptop Hardware (Part 2)" (~12min)
 -   **Practice:** 1 practice question on RAM, storage, and upgrades
--   **Log:** Cards reviewed: ___ | Video watched ✓ | Question score: 
+-   **Log:** Cards reviewed: 11 | Video watched ✓ | Question score: Learn = 11
 
 ### Day 3 (Tue, Aug 18) **WEEKLY PROGRESS CHECK**
 
@@ -329,6 +329,6 @@ If you're NOT at these checkpoints by these dates, push your exam to mid-Septemb
 -   Anki cards should be reviewed SPACED over multiple days (the app handles this automatically)
 -   Your 3-hour social media cap helps—more free brain space = better retention
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYxNTE0LDE4NDQ4NzQ2ODcsLTQ0OT
+eyJoaXN0b3J5IjpbLTM1NzI4MjM2LDE4NDQ4NzQ2ODcsLTQ0OT
 k4ODMxNl19
 -->
